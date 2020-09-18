@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on openCV
 - 🌱 I’m currently learning Java, Airtifical Intelligence
 - 👯 I’m looking to collaborate on on web development and python project
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, I will try my best to help you.
 - 📫 How to reach me: abhineetmishra64@gmail.com
 - 😄 Pronouns: He/him
