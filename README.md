@@ -1,4 +1,4 @@
-Hola . Chaitaly here 👋
+Hola a todos . Abhineet here 👋
 Welcome to my GitHub profile
 
 I'm Abhineet Mishra, from Siliguri, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
