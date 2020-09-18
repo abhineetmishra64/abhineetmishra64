@@ -1,7 +1,7 @@
 Hola . Chaitaly here 👋
 Welcome to my GitHub profile
 
-I'm Abhineet Mishra :octocat:, from Siliguri, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
+I'm Abhineet Mishra, from Siliguri, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
 
 🔭 I’m currently working on Web Development, openCV.
 🌱 I’m currently learning JAVA and ARITFICIAL INTELLIGENCE.
