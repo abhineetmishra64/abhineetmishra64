@@ -12,8 +12,8 @@ These are some of the major technologies that I use:
 
 **Libraries and Frameworks**
 
-<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">
-|--|--|--|--|--|
+<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
+|
 <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 
@@ -25,7 +25,7 @@ These are some of the major technologies that I use:
 
 ## Some of my Stats :
 
-![Anubhav github stats](https://github-readme-stats.vercel.app/api?username=anubha2012v&show_icons=true&theme=tokyonight)
+![Abhineet github stats](https://github-readme-stats.vercel.app/api?username=abhineetmishra64&show_icons=true&theme=tokyonight)
 <br>
 
 ## Let's Connect :handshake:
