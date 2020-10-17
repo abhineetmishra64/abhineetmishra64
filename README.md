@@ -7,14 +7,11 @@ These are some of the major technologies that I use:
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">| <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-|--|--|--|--|--|
 <br>
 
 **Libraries and Frameworks**
 
-<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
-|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 
 **Tools**
@@ -30,5 +27,5 @@ These are some of the major technologies that I use:
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/anubhav-singh-6b659516a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/thesingh_anu"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/anubhav.singh.5686"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:singh.anubhav2012@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/thesingh_anubhav/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
+<a href="https://www.linkedin.com/in/abhineet-mishra-323b6016b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/Abhineet64"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/abhineet.mishra.35"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:singh.abhineetmishra64@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/abhineetmishra64/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
 |--|--|--|--|--|
