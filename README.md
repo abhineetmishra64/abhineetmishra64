@@ -24,7 +24,7 @@ These are some of the major technologies that I use:
 **Libraries and Frameworks**
 
 <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="django" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|
-|--|--|--|--|
+|--|--|--|
 <br>
 
 
