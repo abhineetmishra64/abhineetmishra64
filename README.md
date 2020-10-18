@@ -7,7 +7,6 @@ I'm Abhineet Mishra, from Siliguri, India. Currently I am pursuing my pre-final 
 - 🌱 I’m currently learning JAVA and ARITFICIAL INTELLIGENCE.
 - 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
 - 💬 Ask me about anything. I'll try to solve problems of yours.
-- 📫 How to reach me: 📧 abhineetmishra64@gmail.com
 - 😄 Pronouns: he/him 🧑🏻
 - ⚡ Fun fact: I ❤️ working from home😜
 
@@ -25,7 +24,7 @@ These are some of the major technologies that I use:
 **Libraries and Frameworks**
 
 <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="django" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|
-|--|--|--|--|--|
+|--|--|--|--|
 <br>
 
 
