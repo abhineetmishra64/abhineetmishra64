@@ -17,7 +17,7 @@ These are some of the major technologies that I use:
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">| <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c++/c++.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">| <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
 |--|--|--|--|--|
 <br>
 
