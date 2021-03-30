@@ -4,7 +4,7 @@ I'm Abhineet Mishra, from Samastipur, Bihar, India. Currently I am pursuing my p
 
 
 - 🔭 I’m currently working on Web Development, openCV.
-- 🌱 I’m currently learning JAVA and ARITFICIAL INTELLIGENCE.
+- 🌱 I’m currently learning JAVA and DATA STRUCTURE.
 - 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
 - 💬 Ask me about anything. I'll try to solve problems of yours.
 - 😄 Pronouns: he/him 🧑🏻
