@@ -1,5 +1,8 @@
 <h1>Hola a todos. <a>Abhineet Mishra</a> here. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+
+![](https://komarev.com/ghpvc/?username=raj2029rahul&color=dc143c)
+
 I'm Abhineet Mishra, from Samastipur, Bihar, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
 
 
