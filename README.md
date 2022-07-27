@@ -3,7 +3,7 @@
 
 
 
-I'm Abhineet Mishra, from Samastipur, Bihar, India. Currently I am pursuing my final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
+I'm Abhineet Mishra, from Samastipur, Bihar, India. Currently I am workin as Mulesoft Developer at Exavalu. I have pursued my B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.
 
 
 - 🔭 I’m currently working on Web Development, openCV.
